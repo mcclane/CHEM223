@@ -1,0 +1,22 @@
+1. Salicylic acid is a whitish-tan solid at room temperature. It can be used to remove the outer layer skin and is often found in skincare and acne products. Salicylic acid is also an active metabolite of the drug aspirin and is responsible for the anti inflammatory properties of aspirin.
+
+Methyl salicylate, aka wintergreen oil, is a colorless liquid at room temperature with a minty or fruity odor. It is commonly used in fragrances, foods, and beverages. It is also used in traditional medicine.
+
+
+2. The lab manual procedure used different and smaller quantities of reagents. No boiling stones in the video. Reaction mixture in the video was refluxed for twice as long. The video used a rotovap immediately after refluxing to remove some of the excess methanol. In the video, only cold water was added to the sep funnel. The lab manual calls for cold water, EtOAc, and brine to be added to the sep funnel. The video showed an extra final wash step. When the rest of the extraction was completed, the lab manual procedure called for rotovapping off the EtOAc. The video mentioned but did not show the use of MgSO4 to remove excess water from the product.
+
+3. 69.25%
+
+
+4. Salicylic acid would have a lower Rf value because the carboxylic acid group in salicylic acid is more polar than the ester group in methyl salicylate.
+
+
+5. Methyl salicylate IR spectrum has a peak at 1650 cm-1 from ester C=O stretch. There are also C-O stretches in the fingerprint region from 1000 - 1300 cm-1 characteristic of an ester, which are absent in the IR spectra of salicylic acid. The IR spectra of both methyl salicylate and salicylic have O-H stretches around 3000 to 3500 cm-1.
+
+
+6. The signal at 10.5 is from the phenol H. This is not a good signal to base the integrations off because it is broad and difficult to integrate accurately. This means the other integrations are not directly indicitave of the number of protons causing the signals. The 4 aromatic protons cause the peaks between 6.7 and 7.9, but overlap and are difficult to distinguish from each other. The singlet at 3.9 is caused by the 3 protons in the methyl group on the end of the ester. It would be better to integrate the signals based off of this signal, using a value of 3, because it is strong and distinct.
+
+
+7. The C in the ester is the furthest signal downfield. The second furthest downfield signal is likely the C attached to the OH.
+
+8. Since salicylic acid is the principle metabolite of aspirin, I enjoyed reading about how aspirin is absorbed by the body and metabolized into salicylic acid.
